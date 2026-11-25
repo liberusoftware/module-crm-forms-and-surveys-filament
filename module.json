@@ -2,7 +2,7 @@
   "name": "crm-forms-and-surveys-filament",
   "display_name": "CRM Forms and Surveys Filament",
   "description": "Filament form and survey builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\FormsAndSurveysFilament\\FormsAndSurveysFilamentServiceProvider",
   "requires": {
